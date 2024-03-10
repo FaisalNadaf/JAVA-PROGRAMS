@@ -7,7 +7,7 @@ public class basic_calculator {
         Scanner scan = new Scanner(System.in); // scan is variable
         System.out.print("Enter a = ");
         int a = scan.nextInt();
-        System.out.print("Enter b = ");5
+        System.out.print("Enter b = ");
 
         int b = scan.nextInt();
         System.out.print("Enter operator = ");
