@@ -8,7 +8,7 @@ public class half_Pyramids {
         System.out.print("Enter number or rows = ");
         int a = scan.nextInt();
 
-        for (int i = 0; i <= a; i++) {
+        for (int i = 0; i <= a-1; i++) {
 
             for (int j = 0; j <= i; j++) {
 
