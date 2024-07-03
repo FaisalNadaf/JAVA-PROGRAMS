@@ -1,4 +1,4 @@
-package constructor;
+package constructor.defaultConstructor;
 
 public class defaultConstructor {
 
